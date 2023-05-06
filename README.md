@@ -1,1 +1,1 @@
-# qna-quiz-app
+# QNA QUIZ APP
